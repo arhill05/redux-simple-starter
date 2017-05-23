@@ -1,0 +1,5 @@
+{
+    "brace_style": "collapse,preserve-inline",
+    "bracepadding": true,
+    "space_in_paren": false
+}
